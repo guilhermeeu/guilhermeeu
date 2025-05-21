@@ -5,8 +5,11 @@
 ## 📌Principais tecnologias que uso 
 
 - **💻Linguágem que mais uso:** Typescript
+  
 - **🏛️Banco de dados:** Firestore (Firebase)
-- **🚪Front-end:** HTML, SASS, JS, Vue.js 
+  
+- **🚪Front-end:** HTML, SASS, JS, Vue.js
+  
 - **📜Editor de código:** VS code 
 
 
