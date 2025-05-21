@@ -2,7 +2,7 @@
 
 * ✨ Sou apaixonado por jogos, programação e escrever histórias de fantasía nos tempos vagos 
 
-##📌Principais tecnologias que uso 
+## 📌Principais tecnologias que uso 
 
 - **💻Linguágem que mais uso:** Typescript
 - **🏛️Banco de dados:** Firestore
