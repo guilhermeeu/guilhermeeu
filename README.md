@@ -4,7 +4,7 @@
 
 ## 📌Principais tecnologias que uso 
 
-- **💻Linguágem que mais uso:** Typescript
+- **💻Linguagem principal:** Typescript
   
 - **🏛️Banco de dados:** Firestore (Firebase)
   
