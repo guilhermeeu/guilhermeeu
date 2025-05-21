@@ -1,6 +1,6 @@
 # 👋 Olá! me chamo Guilherme, prazer. 
 
-* ✨ Sou apaixonado por jogos, programação e escrever histórias de fantasia nos tempos vagos 
+* ✨ Sou apaixonado por jogos, programação e por escrever histórias de fantasia nos tempos vagos.
 
 ## 📌Principais tecnologias que uso 
 
