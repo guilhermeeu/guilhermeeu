@@ -1,15 +1,21 @@
-# 👋 Olá! me chamo Guilherme, prazer. 
+# 👋 Olá, eu sou Guilherme
 
-* ✨ Sou apaixonado por jogos, programação e por escrever histórias de fantasia nos tempos vagos.
+> ✨ Gamer, programador e escritor de fantasia nas horas vagas.
 
-## 📌Principais tecnologias que uso 
+---
 
-- **💻Linguagem principal:** Typescript
-  
-- **🏛️Banco de dados:** Firestore (Firebase)
-  
-- **🚪Front-end:** HTML, SASS, JS, Vue.js
-  
-- **📜Editor de código:** VS code 
+## 🚀 Stack Principal
 
+| Tecnologia           | Descrição                  |
+|---------------------|----------------------------|
+| 💻 TypeScript       | Linguagem principal         |
+| 🏛️ Firestore       | Banco de dados NoSQL Cloud  |
+| 🚪 HTML, SASS, JS   | Front-end                  |
+| 🌐 Vue.js           | Framework JavaScript       |
+| 📝 VS Code          | Editor de código favorito   |
+
+---
+
+👨‍💻 Focado em escrever código limpo e construir experiências web modernas.  
+🎮 Sempre com um jogo na cabeça e uma história pra contar.
 
